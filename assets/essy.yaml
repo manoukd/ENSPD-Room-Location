@@ -1,0 +1,139 @@
+ENSPD:
+  Bâtiment en U:
+    Bloc Administratif (Aile centrale):
+      Rez-de-chaussée:
+        Hall principal:
+          type: Hall
+          occupant: "N/A"
+          role: "Espace d'accueil"
+        Escalier central:
+          type: Passage
+          occupant: "N/A"
+          role: "Accès aux étages supérieurs"
+      1er étage:
+        Bibliothèque:
+          type: Library
+          occupant: "Mme. Koffi"
+          role: "Bibliothécaire"
+        Médiathèque:
+          type: Media Center
+          occupant: "M. Tchouassi"
+          role: "Responsable multimédia"
+      2ème étage:
+        Bureaux administratifs:
+          type: Office
+          occupant: "M. Nganou"
+          role: "Directeur Administratif"
+      3ème étage:
+        Bureaux administratifs:
+          type: Office
+          occupant: "Mme. Ekambi"
+          role: "Chef de Service"
+    
+    Bloc Pédagogique (Aile gauche):
+      Rez-de-chaussée:
+        Gate01:
+          salles:
+            - name: "01BP0"
+              type: Classroom
+              occupant: "M. Biloa"
+              role: "Enseignant Maths"
+            - name: "02BP0"
+              type: Classroom
+              occupant: "Mme. Fofana"
+              role: "Enseignante Physique"
+            - name: "03BP0"
+              type: Laboratory
+              occupant: "Dr. Mbah"
+              role: "Responsable Chimie"
+        Escalier 1:
+          type: Passage
+          occupant: "N/A"
+          role: "Accès aux étages supérieurs"
+        Gate02:
+          salles:
+            - name: "04BP0"
+              type: Classroom
+              occupant: "M. Mbarga"
+              role: "Enseignant Informatique"
+            - name: "05BP0"
+              type: Laboratory
+              occupant: "Mme. Noutcha"
+              role: "Laborantine"
+      1er étage:
+        Gate01:
+          salles:
+            - name: "01BP1"
+              type: Classroom
+              occupant: "M. Fotso"
+              role: "Enseignant Electronique"
+            - name: "02BP1"
+              type: Classroom
+              occupant: "Mme. Kameni"
+              role: "Enseignante Réseaux"
+        Escalier 1:
+          type: Passage
+          occupant: "N/A"
+          role: "Accès aux étages supérieurs"
+        Gate02:
+          salles:
+            - name: "03BP1"
+              type: Classroom
+              occupant: "Dr. Talla"
+              role: "Professeur de Programmation"
+            - name: "04BP1"
+              type: Laboratory
+              occupant: "M. Ngono"
+              role: "Technicien de Laboratoire"
+
+    Bloc Spécialité (Aile droite):
+      Rez-de-chaussée:
+        Gate04:
+          salles:
+            - name: "01BS0"
+              type: Classroom
+              occupant: "Mme. Ndongo"
+              role: "Enseignante Automatique"
+            - name: "02BS0"
+              type: Laboratory
+              occupant: "M. Ndiaye"
+              role: "Technicien"
+        Escalier 1:
+          type: Passage
+          occupant: "N/A"
+          role: "Accès aux étages supérieurs"
+      1er étage:
+        Gate07:
+          salles:
+            - name: "01BS1"
+              type: Classroom
+              occupant: "Dr. Ebang"
+              role: "Professeur Contrôle"
+            - name: "02BS1"
+              type: Laboratory
+              occupant: "Mme. Ateba"
+              role: "Responsable Matériaux"
+
+  Cour intérieure:
+    Espace vert:
+      type: Outdoor
+      occupant: "N/A"
+      role: "Détente"
+    Bancs publics:
+      type: Outdoor
+      occupant: "N/A"
+      role: "Repos"
+    Fontaine:
+      type: Outdoor
+      occupant: "N/A"
+      role: "Décoration"
+
+  Amphithéâtre:
+    Salle principale:
+      type: Auditorium
+      occupant: "M. Tchatchoua"
+      role: "Responsable des conférences"
+    Scène/estrade:
+      type: Stage
+      occupant: "N/A"
+      role: "Espace de présentation"

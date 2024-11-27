@@ -1,0 +1,27 @@
+Bâtiment,Room_Name,Room_Type,Room_Attribution,Etage,Bloc,Text_Descriptor,Gate,Gate_Description
+Bâtiment en U,Hall principal,Hall,Non attribué,Rez-de-chaussée,Administratif,Hall d'entrée principal,, 
+Bâtiment en U,Escalier central,Escalier,Non attribué,Rez-de-chaussée,Administratif,Escalier principal vers les étages supérieurs,, 
+Bâtiment en U,Bibliothèque,Bibliothèque,Non attribué,1er étage,Administratif,Zone de lecture et étude,,"Porte orientée vers le Bloc Pédagogique"
+Bâtiment en U,Médiathèque,Médiathèque,Non attribué,1er étage,Administratif,Zone de recherche et multimédia,,"Porte orientée vers le Bloc Spécialité"
+Bâtiment en U,Bureaux administratifs,Bureau,Non attribué,2ème étage,Administratif,Espaces pour les bureaux administratifs,, 
+Bâtiment en U,Bureaux administratifs,Bureau,Non attribué,3ème étage,Administratif,Espaces pour les bureaux administratifs,, 
+Bâtiment en U,Gate01,Salle,Non attribué,Rez-de-chaussée,Pédagogique,Regroupe plusieurs salles de cours,Gate01,"Salles : 01BP0, 02BP0, 03BP0"
+Bâtiment en U,Escalier 1,Escalier,Non attribué,Rez-de-chaussée,Pédagogique,Escalier entre les Gate01 et Gate02,, 
+Bâtiment en U,Gate02,Salle,Non attribué,Rez-de-chaussée,Pédagogique,Regroupe plusieurs salles de cours,Gate02,"Salles : 04BP0, 05BP0"
+Bâtiment en U,Escalier 2,Escalier,Non attribué,Rez-de-chaussée,Pédagogique,Escalier entre les Gate02 et Gate03,, 
+Bâtiment en U,Gate03,Salle,Non attribué,Rez-de-chaussée,Pédagogique,Regroupe plusieurs salles de cours,Gate03,"Salles : 06BP0, 07BP0"
+Bâtiment en U,Gate01,Salle,Non attribué,1er étage,Pédagogique,Regroupe plusieurs salles de cours,Gate01,"Salles : 01BP1, 02BP1"
+Bâtiment en U,Escalier 1,Escalier,Non attribué,1er étage,Pédagogique,Escalier entre les Gate01 et Gate02,, 
+Bâtiment en U,Gate02,Salle,Non attribué,1er étage,Pédagogique,Regroupe plusieurs salles de cours,Gate02,"Salles : 03BP1, 04BP1"
+Bâtiment en U,Gate04,Salle,Non attribué,Rez-de-chaussée,Spécialité,Regroupe plusieurs salles de cours,Gate04,"Salles : 01BS0, 02BS0"
+Bâtiment en U,Escalier 1,Escalier,Non attribué,Rez-de-chaussée,Spécialité,Escalier entre Gate04 et Gate05,, 
+Bâtiment en U,Gate05,Salle,Non attribué,Rez-de-chaussée,Spécialité,Regroupe plusieurs salles de cours,Gate05,"Salles : 03BS0, 04BS0"
+Bâtiment en U,Escalier 2,Escalier,Non attribué,Rez-de-chaussée,Spécialité,Escalier entre Gate05 et Gate06,, 
+Bâtiment en U,Gate06,Salle,Non attribué,Rez-de-chaussée,Spécialité,Regroupe plusieurs salles de cours,Gate06,"Salles : 05BS0, 06BS0"
+Bâtiment en U,Gate07,Salle,Non attribué,1er étage,Spécialité,Regroupe plusieurs salles de cours,Gate07,"Salles : 01BS1, 02BS1"
+Bâtiment en U,Escalier 1,Escalier,Non attribué,1er étage,Spécialité,Escalier entre Gate07 et Gate08,, 
+Bâtiment en U,Gate08,Salle,Non attribué,1er étage,Spécialité,Regroupe plusieurs salles de cours,Gate08,"Salles : 03BS1, 04BS1"
+Bâtiment en U,Escalier 2,Escalier,Non attribué,1er étage,Spécialité,Escalier entre Gate08 et Gate09,, 
+Bâtiment en U,Gate09,Salle,Non attribué,1er étage,Spécialité,Regroupe plusieurs salles de cours,Gate09,"Salles : 05BS1, 06BS1"
+Bâtiment en U,Amphithéâtre,Amphithéâtre,Non attribué,Rez-de-chaussée,Non spécifié,Salle pour conférences et événements,, 
+Bâtiment en U,Cour intérieure,Extérieur,Non attribué,Non spécifié,Non spécifié,Espace vert avec bancs et fontaine,, 
